@@ -1,5 +1,7 @@
 # Smart Contract audits
 This repo includes a list of most of the Smart Contract audits that I carried since getting into Web3 offensive security in 2021. Each item will include the firm under which it was published and the URL of the public report if available.
+* [Halborn](https://halborn.com/) October 2021 - June 2022
+* [Oak Security](https://www.oaksecurity.io/) August 2022 - now
 
 ## CosmWasm 
 
