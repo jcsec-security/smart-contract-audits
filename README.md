@@ -52,4 +52,5 @@ My main area of expertise at the moment.
 ## Others
 
 NEAR protocol Smart Contract audits
+
 :newspaper: 1x [Halborn] Unpublished
