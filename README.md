@@ -9,6 +9,12 @@ The most interesting reports are marked :gem:, mildly interesting ones as :ok_ha
 
 My main area of expertise at the moment.
 
+:ok_hand: [Oak Security] [Astroport Core Updates v1.0](https://github.com/oak-security/audit-reports/blob/master/Astroport/2023-02-10%20Audit%20Report%20-%20Astroport%20Core%20Updates%20v1.0.pdf)
+
+:ok_hand: [Oak Security] [Astroport Governance v1.0](https://github.com/oak-security/audit-reports/blob/master/Astroport/2023-02-14%20Audit%20Report%20-%20Astroport%20Governance%20Updates%20v1.0.pdf)
+
+:newspaper: [Oak Security] [Astroport IBC v1.0](https://github.com/oak-security/audit-reports/blob/master/Astroport/2023-02-14%20Audit%20Report%20-%20Astroport%20IBC%20v1.0.pdf)
+
 :ok_hand: [Oak Security] [Apollo DAO 3](https://github.com/oak-security/audit-reports/blob/master/Apollo/2023-01-17%20Audit%20Report%20-%20Apollo%20DAO%203%20v1.0.pdf)
 
 :gem: [Oak Security]  [Comdex Locking and Vesting contracts](https://github.com/oak-security/audit-reports/blob/master/Comdex/2022-10-28%20Audit%20Report%20-%20Comdex%20Locking%20and%20Vesting%20Contracts%20v1.0.pdf)
