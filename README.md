@@ -5,6 +5,8 @@ This repo includes a list of some example Smart Contract audits that I have done
 
 The most interesting reports are marked :gem:, mildly interesting ones as :ok_hand: and lesser interest as :newspaper:. 
 
+**Disclaimer:** all Oak Security audits are performed in teams of three (that's why they are so good!). Therefore, authorship of both findings and report are shared with two additional brilliant individuals.
+
 ## CosmWasm 
 
 My main area of expertise at the moment.
@@ -31,11 +33,11 @@ My main area of expertise at the moment.
 
 :newspaper: [Halborn] [Stader Labs - SD Token Staking contracts](https://github.com/HalbornSecurity/PublicReports/blob/master/CosmWasm%20Smart%20Contract%20Audits/Stader_Labs_SD_Token_Staking_Contracts_CosmWasm_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf)
 
-:ok_hand: [Halborn] [Astroport.fi - Astral Assembly](https://github.com/HalbornSecurity/PublicReports/blob/master/CosmWasm%20Smart%20Contract%20Audits/Astroport_fi_Astral_Assembly_CosmWasm_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf)
+:ok_hand: [Halborn] [Astroport - Astral Assembly](https://github.com/HalbornSecurity/PublicReports/blob/master/CosmWasm%20Smart%20Contract%20Audits/Astroport_fi_Astral_Assembly_CosmWasm_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf)
 
-:newspaper: [Halborn] [Astroport.fi - Maker contract](https://github.com/HalbornSecurity/PublicReports/blob/master/CosmWasm%20Smart%20Contract%20Audits/Astroport_fi_Maker_Contract_CosmWasm_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf)
+:newspaper: [Halborn] [Astroport - Maker contract](https://github.com/HalbornSecurity/PublicReports/blob/master/CosmWasm%20Smart%20Contract%20Audits/Astroport_fi_Maker_Contract_CosmWasm_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf)
 
-:gem: [Halborn] [Astroport.fi - Periphery contracts](https://github.com/HalbornSecurity/PublicReports/blob/master/CosmWasm%20Smart%20Contract%20Audits/Astroport_fi_Periphery_Contracts_CosmWasm_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf)
+:gem: [Halborn] [Astroport - Periphery contracts](https://github.com/HalbornSecurity/PublicReports/blob/master/CosmWasm%20Smart%20Contract%20Audits/Astroport_fi_Periphery_Contracts_CosmWasm_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf)
 
 :newspaper: [Halborn] [Brokkr - Delta Neutral](https://github.com/HalbornSecurity/PublicReports/blob/master/CosmWasm%20Smart%20Contract%20Audits/Brokkr_Protocol_Delta_Neutral_CosmWasm_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf)
 
