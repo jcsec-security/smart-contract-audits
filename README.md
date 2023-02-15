@@ -3,9 +3,12 @@ This repo includes a list of some example Smart Contract audits that I have done
 * [Halborn](https://halborn.com/): October 2021 - June 2022
 * [Oak Security](https://www.oaksecurity.io/): August 2022 - now
 
+**Disclaimer:** all Oak Security audits are performed in teams of three (that's why they are so good!). Therefore, authorship of both findings and report are shared with two additional brilliant individuals.
+
+---
 The most interesting reports are marked :gem:, mildly interesting ones as :ok_hand: and lesser interest as :newspaper:. 
 
-**Disclaimer:** all Oak Security audits are performed in teams of three (that's why they are so good!). Therefore, authorship of both findings and report are shared with two additional brilliant individuals.
+---
 
 ## CosmWasm 
 
