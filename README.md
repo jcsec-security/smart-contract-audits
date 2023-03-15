@@ -32,7 +32,7 @@ My main area of expertise at the moment.
 
 :ok_hand: [Oak Security]  [Prism Auto-compounding cAsset](https://github.com/oak-security/audit-reports/blob/master/Prism/2022-11-04%20Audit%20Report%20-%20Prism%20Auto%20Compounding%20cAsset%20v1.0.pdf)
 
-:newspaper: Nx [Oak Security] Waiting for publishing
+:newspaper: 2-3x [Oak Security] Soon to be published
 
 :gem: [Halborn] [Mars Protocol - Core contracts](https://github.com/HalbornSecurity/PublicReports/blob/master/CosmWasm%20Smart%20Contract%20Audits/Mars_Protocol_Core_Contracts_CosmWasm_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf)
 
