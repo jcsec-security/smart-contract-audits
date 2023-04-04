@@ -14,6 +14,8 @@ The most interesting reports are marked :gem:, mildly interesting ones as :ok_ha
 
 My main area of expertise at the moment.
 
+:newspaper: [Oak Security] [Astroport Maker and Vesting contracts](https://github.com/oak-security/audit-reports/blob/master/Astroport/2023-04-04%20Audit%20Report%20-%20Astroport%20Maker%20and%20Vesting%20Contract%20Updates%20v1.0.pdf)
+
 :gem: [Oak Security]  [Croncat for CosmWasm](https://github.com/oak-security/audit-reports/blob/master/CronCat/2023-03-14%20Audit%20Report%20-%20CronCat%20CosmWasm%20v1.0.pdf)
 
 :ok_hand: [Oak Security] [Eris protocol](https://github.com/oak-security/audit-reports/blob/master/Eris%20Protocol/2023-02-15%20Audit%20Report%20-%20Eris%20Protocol%20v1.0.pdf)
