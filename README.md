@@ -1,18 +1,22 @@
 # Smart Contract audits
-This repo includes a list of some example Smart Contract audits that I have done since getting into Web3 offensive security in 2021. Each item will include the firm under which it was published and the URL of the public report if available. 
+This repo includes a list of most Smart Contract audits that I have done since getting into Web3 offensive security in 2021. Each item will include the firm under which it was published and the URL of the public report if available. 
 * [Oak Security](https://www.oaksecurity.io/): August 2022 - now
 * [Halborn](https://halborn.com/): October 2021 - June 2022
 
 **Disclaimer:** all Oak Security audits are performed in teams of three (that's why they are so good!). Therefore, authorship of both findings and report are shared with two additional brilliant individuals.
 
 ---
-The most interesting reports are marked :gem:, mildly interesting ones as :ok_hand: and lesser interest as :newspaper:. 
+The most interesting reports are marked :gem:, mildly interesting ones as :ok_hand: and less interesting ones as :newspaper:. 
 
 ---
 
 ## CosmWasm 
 
 My main area of expertise at the moment.
+
+:ok_hand: [Oak Security] [Phase](https://github.com/oak-security/audit-reports/blob/master/Phase/2023-04-13%20Audit%20Report%20-%20Phase%20v1.0.pdf)
+
+:gem: [Oak Security] [Streamswap](https://github.com/oak-security/audit-reports/blob/master/Streamswap/2023-03-16%20Audit%20Report%20-%20Streamswap%20v1.1.pdf)
 
 :newspaper: [Oak Security] [Astroport Maker and Vesting contracts](https://github.com/oak-security/audit-reports/blob/master/Astroport/2023-04-04%20Audit%20Report%20-%20Astroport%20Maker%20and%20Vesting%20Contract%20Updates%20v1.0.pdf)
 
