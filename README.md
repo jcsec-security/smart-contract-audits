@@ -14,6 +14,8 @@ The most interesting reports are marked :gem:, mildly interesting ones as :ok_ha
 
 My main area of expertise at the moment.
 
+:newspaper: [Oak Security] [Astroport LP Token Balance Tracking](https://github.com/oak-security/audit-reports/blob/master/Astroport/2023-04-27%20Audit%20Report%20-%20Astroport%20LP%20Token%20Balance%20Tracking%20v1.0.pdf)
+
 :ok_hand: [Oak Security] [Phase](https://github.com/oak-security/audit-reports/blob/master/Phase/2023-04-13%20Audit%20Report%20-%20Phase%20v1.0.pdf)
 
 :gem: [Oak Security] [Streamswap](https://github.com/oak-security/audit-reports/blob/master/Streamswap/2023-03-16%20Audit%20Report%20-%20Streamswap%20v1.1.pdf)
