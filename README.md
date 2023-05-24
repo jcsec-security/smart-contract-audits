@@ -14,6 +14,8 @@ The most interesting reports are marked :gem:, mildly interesting ones as :ok_ha
 
 My main area of expertise at the moment.
 
+:newspaper: 2-3x [Oak Security] Soon to be published
+
 :ok_hand: [Oak Security] [Calculated Finance](https://github.com/oak-security/audit-reports/blob/master/Calculated%20Finance/2023-05-23%20Audit%20Report%20-%20Calculated%20Finance%20v1.1.pdf)
 
 :ok_hand: [Oak Security] [Abstract Module Bases, Proxy and Manager Contracts](https://github.com/oak-security/audit-reports/blob/master/Abstract/2023-05-09%20Audit%20Report%20-%20Abstract%20Module%20Bases%2C%20Proxy%20and%20Manager%20Contracts%20v1.0.pdf)
@@ -43,8 +45,6 @@ My main area of expertise at the moment.
 :gem: [Oak Security]  [Margined Protocol Perpetuals](https://github.com/oak-security/audit-reports/blob/master/Margined%20Protocol/2022-10-28%20Audit%20Report%20-%20Margined%20Protocol%20Perpetuals%20v1.0.pdf)
 
 :ok_hand: [Oak Security]  [Prism Auto-compounding cAsset](https://github.com/oak-security/audit-reports/blob/master/Prism/2022-11-04%20Audit%20Report%20-%20Prism%20Auto%20Compounding%20cAsset%20v1.0.pdf)
-
-:newspaper: 2-3x [Oak Security] Soon to be published
 
 :gem: [Halborn] [Mars Protocol - Core contracts](https://github.com/HalbornSecurity/PublicReports/blob/master/CosmWasm%20Smart%20Contract%20Audits/Mars_Protocol_Core_Contracts_CosmWasm_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf)
 
