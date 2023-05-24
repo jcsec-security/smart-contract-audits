@@ -14,6 +14,8 @@ The most interesting reports are marked :gem:, mildly interesting ones as :ok_ha
 
 My main area of expertise at the moment.
 
+:ok_hand: [Oak Security] [Calculated Finance](https://github.com/oak-security/audit-reports/blob/master/Calculated%20Finance/2023-05-23%20Audit%20Report%20-%20Calculated%20Finance%20v1.1.pdf)
+
 :ok_hand: [Oak Security] [Abstract Module Bases, Proxy and Manager Contracts](https://github.com/oak-security/audit-reports/blob/master/Abstract/2023-05-09%20Audit%20Report%20-%20Abstract%20Module%20Bases%2C%20Proxy%20and%20Manager%20Contracts%20v1.0.pdf)
 
 :newspaper: [Oak Security] [Astroport LP Token Balance Tracking](https://github.com/oak-security/audit-reports/blob/master/Astroport/2023-04-27%20Audit%20Report%20-%20Astroport%20LP%20Token%20Balance%20Tracking%20v1.0.pdf)
