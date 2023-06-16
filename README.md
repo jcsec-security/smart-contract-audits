@@ -16,6 +16,8 @@ My main area of expertise at the moment.
 
 :newspaper: 2-3x [Oak Security] Soon to be published
 
+:gem: [Oak Security] [FortyTwo](https://github.com/oak-security/audit-reports/blob/master/FortyTwo/2023-06-05%20Audit%20Report%20-%20FortyTwo%20v1.1.pdf)
+
 :ok_hand: [Oak Security] [Calculated Finance](https://github.com/oak-security/audit-reports/blob/master/Calculated%20Finance/2023-05-23%20Audit%20Report%20-%20Calculated%20Finance%20v1.1.pdf)
 
 :ok_hand: [Oak Security] [Abstract Module Bases, Proxy and Manager Contracts](https://github.com/oak-security/audit-reports/blob/master/Abstract/2023-05-09%20Audit%20Report%20-%20Abstract%20Module%20Bases%2C%20Proxy%20and%20Manager%20Contracts%20v1.0.pdf)
