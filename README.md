@@ -16,6 +16,8 @@ My main area of expertise at the moment.
 
 :newspaper: 2-3x [Oak Security] Soon to be published
 
+:newspaper: [Oak Security] [Astroport Concentrated Liquidity Pool with Injective Orderbook Integration](https://github.com/oak-security/audit-reports/blob/master/Astroport/2023-07-13%20Audit%20Report%20-%20Astroport%20Concentrated%20Liquidity%20Pool%20with%20Injective%20Orderbook%20Integration%20v1.0.pdf)
+
 :gem: [Oak Security] [FortyTwo](https://github.com/oak-security/audit-reports/blob/master/FortyTwo/2023-06-05%20Audit%20Report%20-%20FortyTwo%20v1.1.pdf)
 
 :ok_hand: [Oak Security] [Calculated Finance](https://github.com/oak-security/audit-reports/blob/master/Calculated%20Finance/2023-05-23%20Audit%20Report%20-%20Calculated%20Finance%20v1.1.pdf)
