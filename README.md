@@ -18,6 +18,8 @@ My main area of expertise at the moment.
 
 :newspaper: [Oak Security] [Osmosis Transmuter](https://github.com/oak-security/audit-reports/blob/master/Osmosis%20Labs/2023-10-09%20Audit%20Report%20-%20Osmosis%20Transmuter%20v1.0.pdf)
 
+:newspaper: [Oak Security] [Wormhole Token Translator](https://github.com/oak-security/audit-reports/blob/master/Wormhole/2023-07-06%20Audit%20Report%20-%20Wormhole%20Token%20Translator%20v1.1.pdf)
+
 :newspaper: [Oak Security] [Astroport Concentrated Liquidity Pool with Injective Orderbook Integration](https://github.com/oak-security/audit-reports/blob/master/Astroport/2023-07-13%20Audit%20Report%20-%20Astroport%20Concentrated%20Liquidity%20Pool%20with%20Injective%20Orderbook%20Integration%20v1.0.pdf)
 
 :gem: [Oak Security] [FortyTwo](https://github.com/oak-security/audit-reports/blob/master/FortyTwo/2023-06-05%20Audit%20Report%20-%20FortyTwo%20v1.1.pdf)
