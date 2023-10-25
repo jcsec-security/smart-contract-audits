@@ -16,6 +16,8 @@ My main area of expertise at the moment.
 
 :newspaper: 2-3x [Oak Security] Soon to be published
 
+:gem: [Oak Security] [Margined Power](https://github.com/oak-security/audit-reports/blob/master/Margined%20Protocol/2023-10-25%20Audit%20Report%20-%20Margined%20Power%20v1.0.pdf)
+
 :ok_hand: [Oak Security] [DAO DAO updates](https://github.com/oak-security/audit-reports/blob/master/DAO%20DAO/2023-10-16%20Audit%20Report%20-%20DAO%20DAO%20Updates%20v1.0.pdf)
 
 :newspaper: [Oak Security] [Osmosis Transmuter](https://github.com/oak-security/audit-reports/blob/master/Osmosis%20Labs/2023-10-09%20Audit%20Report%20-%20Osmosis%20Transmuter%20v1.0.pdf)
