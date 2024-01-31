@@ -3,10 +3,10 @@ This repo includes a list of most Smart Contract audits that I have done since g
 * [Oak Security](https://www.oaksecurity.io/): August 2022 - now
 * [Halborn](https://halborn.com/): October 2021 - June 2022
 
-**Disclaimer:** all Oak Security audits are performed in teams of three (that's why they are so good!). Therefore, authorship of both findings and report are shared with two additional auditors.
+**Disclaimer:** All Oak Security audits are performed in teams of three (that's why they are so good!). Therefore, authorship of both findings and reports is shared with two additional auditors.
 
 ---
-The most interesting reports are marked :gem:, mildly interesting ones as :ok_hand: and less interesting ones as :newspaper:. 
+The most interesting reports are marked :gem:, mildly interesting as :ok_hand: and less interesting as :newspaper:. 
 
 ---
 
@@ -15,6 +15,8 @@ The most interesting reports are marked :gem:, mildly interesting ones as :ok_ha
 My main area of expertise at the moment.
 
 :newspaper: 2-3x [Oak Security] Soon to be published
+
+:ok_hand: [Oak Security] [Astroport Transmuter](https://github.com/oak-security/audit-reports/blob/master/Astroport/2024-01-30%20Audit%20Report%20-%20Astroport%20Transmuter%20Pool%20v1.0.pdf)
 
 :gem: [Oak Security] [Astroport Incentives](https://github.com/oak-security/audit-reports/blob/master/Astroport/2024-01-11%20Audit%20Report%20-%20Astroport%20Incentives%20v1.0.pdf)
 
