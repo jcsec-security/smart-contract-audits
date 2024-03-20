@@ -15,6 +15,8 @@ The most interesting reports are marked :gem:, mildly interesting as :ok_hand: a
 
 :newspaper: 2-3x [Oak Security] Soon to be published
 
+:gem: [Oak Security] [Zodiac Protocol Periphery](https://github.com/oak-security/audit-reports/blob/main/Zodiac%20Protocol/2024-03-18%20Audit%20Report%20-%20Zodiac%20Protocol%20Periphery%20v1.0.pdf)
+
 :ok_hand: [Oak Security] [DoraHacks Quadratic Grant Injective](https://github.com/oak-security/audit-reports/blob/main/DoraHacks/2024-03-04%20Audit%20Report%20-%20DoraHacks%20Quadratic%20Grant%20Injective%20v1.0.pdf)
 
 :ok_hand: [Oak Security] [CW-Hyperlane](https://github.com/oak-security/audit-reports/blob/main/Hyperlane/2024-02-13%20Audit%20Report%20-%20cw-hyperlane%20v1.0.pdf)
