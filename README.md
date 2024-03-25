@@ -4,12 +4,8 @@ Below, you will find a list of the Smart Contract audits I have done since getti
 * [Oak Security](https://www.oaksecurity.io/) / [Solidified](https://www.solidified.io/): August 2022 - now
 * [Halborn audit](https://halborn.com/): October 2021 - June 2022
 
-**Disclaimer:** All Oak Security audits are performed in teams of three (that's why they are so good!). Therefore, authorship of both findings and reports is shared with two additional auditors.
-
----
-The most interesting reports are marked :gem:, mildly interesting as :ok_hand: and less interesting as :newspaper:. 
-
----
+> [!TIP] 
+> The most interesting reports are marked :gem:, mildly interesting as :ok_hand: and less interesting as :newspaper:. 
 
 :newspaper: 2-3x Oak Security audits, soon to be published
 
@@ -88,3 +84,9 @@ The most interesting reports are marked :gem:, mildly interesting as :ok_hand: a
 :newspaper: 3-5x [CosmWasm] Halborn - Unpublished audits
 
 :newspaper: 2x [Solidity/EVM] Halborn - Unpublished audits
+
+---
+
+> [!IMPORTANT] 
+> All Oak Security audits are performed in **teams of three** (that's why they are so good!). Therefore, **authorship** of both findings and reports is **shared** with two additional auditors.
+
