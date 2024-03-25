@@ -9,6 +9,8 @@ Below, you will find a list of the Smart Contract audits I have done since getti
 
 :newspaper: 2-3x Oak Security audits, soon to be published
 
+:ok_hand: [CosmWasm] JCsec - Banana DAO's Banana Vault (soon to be published)
+
 :gem: [CosmWasm] Oak Security - [Zodiac Protocol Periphery audit](https://github.com/oak-security/audit-reports/blob/main/Zodiac%20Protocol/2024-03-18%20Audit%20Report%20-%20Zodiac%20Protocol%20Periphery%20v1.0.pdf)
 
 :ok_hand: [CosmWasm] Oak Security - [DoraHacks Quadratic Grant Injective audit](https://github.com/oak-security/audit-reports/blob/main/DoraHacks/2024-03-04%20Audit%20Report%20-%20DoraHacks%20Quadratic%20Grant%20Injective%20v1.0.pdf)
