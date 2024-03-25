@@ -1,7 +1,7 @@
 # Smart Contract audits
 
 Below, you will find a list of the Smart Contract audits I have done since getting into Web3 security. Each entry will include the firm under which it was published and the URL of the public report, if available. 
-* [Oak Security](https://www.oaksecurity.io/): August 2022 - now
+* [Oak Security](https://www.oaksecurity.io/) / [Solidified](https://www.solidified.io/): August 2022 - now
 * [Halborn audit](https://halborn.com/): October 2021 - June 2022
 
 **Disclaimer:** All Oak Security audits are performed in teams of three (that's why they are so good!). Therefore, authorship of both findings and reports is shared with two additional auditors.
