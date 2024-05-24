@@ -10,6 +10,8 @@ Below, you will find a list of the Smart Contract audits I have done since getti
 |  | Tech | Firm | Report |
 | :---:         | :--- | :--- | :---   |
 | :newspaper: | CosmWasm | Oak Security | 2-3x soon to be published |
+| :ok_hand: | CosmWasm | Oak Security | [Osmosis Transmuter V3](https://github.com/oak-security/audit-reports/blob/main/Osmosis%20Labs/2024-05-15%20Audit%20Report%20-%20Osmosis%20Transmuter%20v3%20v1.0.pdf) |
+| :gem: | CosmWasm | Oak Security | [Astroport Hub Neutron Migration](https://github.com/oak-security/audit-reports/blob/main/Astroport/2024-05-22%20Audit%20Report%20-%20Astroport%20Hub%20Neutron%20Migration%20v1.0.pdf) |
 | :newspaper: | Solidity | Oak Security | Mauve - unpublished |
 | :gem: | CosmWasm | Oak Security | [Ninja Blaze Double](https://github.com/oak-security/audit-reports/blob/main/Ninja%20Blaze/2024-05-06%20Audit%20Report%20-%20Ninja%20Blaze%20Double%20v1.0.pdf) |
 | :newspaper: | CosmWasm | Oak Security | [Zodiac Protocol Core extension](https://github.com/oak-security/audit-reports/blob/main/Zodiac%20Protocol/2024-03-22%20Audit%20Report%20-%20Zodiac%20Protocol%20Core%20Extension%20v1.0.pdf) |
