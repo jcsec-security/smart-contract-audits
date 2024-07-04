@@ -10,6 +10,7 @@ Below, you will find a list of the Smart Contract audits I have done since getti
 |  | Tech | Firm | Report |
 | :---:         | :--- | :--- | :---   |
 | :newspaper: | CosmWasm | Oak Security | 2-3x soon to be published |
+| :newspaper: | CosmWasm | Oak Security | [Astroport Tokenfactory LP Tokens](https://github.com/oak-security/audit-reports/blob/main/Astroport/2024-07-02%20Audit%20Report%20-%20Astroport%20Tokenfactory%20LP%20Tokens%20v1.0.pdf) |
 | :ok_hand: | CosmWasm | Oak Security | [Osmosis Transmuter V3](https://github.com/oak-security/audit-reports/blob/main/Osmosis%20Labs/2024-05-15%20Audit%20Report%20-%20Osmosis%20Transmuter%20v3%20v1.0.pdf) |
 | :gem: | CosmWasm | Oak Security | [Astroport Hub Neutron Migration](https://github.com/oak-security/audit-reports/blob/main/Astroport/2024-05-22%20Audit%20Report%20-%20Astroport%20Hub%20Neutron%20Migration%20v1.0.pdf) |
 | :newspaper: | Solidity | Oak Security | Mauve - unpublished |
