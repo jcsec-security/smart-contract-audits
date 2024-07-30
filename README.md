@@ -1,15 +1,16 @@
 # Smart Contract audits
 
-Below, you will find a list of the Smart Contract audits I have done since getting into Web3 security. Each entry will include the firm under which it was published and the URL of the public report, if available. 
-* [Oak Security](https://www.oaksecurity.io/) / [Solidified](https://www.solidified.io/): August 2022 - now
-* [Halborn audit](https://halborn.com/): October 2021 - June 2022
+Below, I've included a list of the Smart Contract audits I have done since entering Web3 security. Each entry will include the firm under which it was published and the URL of the public report, if available. 
+* [JCsec](https://jcsec.io/) / freelancing: June 2022 - onwards
+* [Oak Security](https://www.oaksecurity.io/) / [Solidified](https://www.solidified.io/): August 2022 - June 2022
+* [Halborn](https://halborn.com/): October 2021 - June 2022
 
 > [!TIP] 
 > The most interesting reports are marked :gem:, mildly interesting as :ok_hand: and less interesting as :newspaper:. 
 
 |  | Tech | Firm | Report |
 | :---:         | :--- | :--- | :---   |
-| :newspaper: | CosmWasm | Oak Security | 2-3x soon to be published |
+| :ok_hand: | CosmWasm | Oak Security | [Eclipse Equinox Lockdrop contract](https://github.com/oak-security/audit-reports/blob/main/Eclipse%20Fi/2024-07-30%20Audit%20Report%20-%20Eclipse%20Equinox%20Lockdrop%20Contract%20v1.0.pdf) |
 | :newspaper: | CosmWasm | Oak Security | [Astroport Tokenfactory LP Tokens](https://github.com/oak-security/audit-reports/blob/main/Astroport/2024-07-02%20Audit%20Report%20-%20Astroport%20Tokenfactory%20LP%20Tokens%20v1.0.pdf) |
 | :ok_hand: | CosmWasm | Oak Security | [Osmosis Transmuter V3](https://github.com/oak-security/audit-reports/blob/main/Osmosis%20Labs/2024-05-15%20Audit%20Report%20-%20Osmosis%20Transmuter%20v3%20v1.0.pdf) |
 | :gem: | CosmWasm | Oak Security | [Astroport Hub Neutron Migration](https://github.com/oak-security/audit-reports/blob/main/Astroport/2024-05-22%20Audit%20Report%20-%20Astroport%20Hub%20Neutron%20Migration%20v1.0.pdf) |
