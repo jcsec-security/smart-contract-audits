@@ -10,16 +10,16 @@ Below, I've included a list of the Smart Contract audits I have done since enter
 
 |  | Tech | Firm | Report |
 | :---:         | :--- | :--- | :---   |
-| :ok_hand: | CosmWasm | JCsec | [Tailwind](https://www.tailwind.zone/) private contest, July 2024 |
+| :ok_hand: | CosmWasm | JCsec | [Tailwind](https://www.tailwind.zone/) private contest, July 2024 (unpublished) |
 | :ok_hand: | CosmWasm | Oak Security | [Eclipse Equinox Lockdrop contract](https://github.com/oak-security/audit-reports/blob/main/Eclipse%20Fi/2024-07-30%20Audit%20Report%20-%20Eclipse%20Equinox%20Lockdrop%20Contract%20v1.0.pdf) |
 | :newspaper: | CosmWasm | Oak Security | [Astroport Tokenfactory LP Tokens](https://github.com/oak-security/audit-reports/blob/main/Astroport/2024-07-02%20Audit%20Report%20-%20Astroport%20Tokenfactory%20LP%20Tokens%20v1.0.pdf) |
 | :ok_hand: | CosmWasm | Oak Security | [Osmosis Transmuter V3](https://github.com/oak-security/audit-reports/blob/main/Osmosis%20Labs/2024-05-15%20Audit%20Report%20-%20Osmosis%20Transmuter%20v3%20v1.0.pdf) |
 | :gem: | CosmWasm | Oak Security | [Astroport Hub Neutron Migration](https://github.com/oak-security/audit-reports/blob/main/Astroport/2024-05-22%20Audit%20Report%20-%20Astroport%20Hub%20Neutron%20Migration%20v1.0.pdf) |
-| :newspaper: | Solidity | Oak Security | Mauve - unpublished |
+| :newspaper: | Solidity | Oak Security | Mauve (unpublished) |
 | :gem: | CosmWasm | Oak Security | [Ninja Blaze Double](https://github.com/oak-security/audit-reports/blob/main/Ninja%20Blaze/2024-05-06%20Audit%20Report%20-%20Ninja%20Blaze%20Double%20v1.0.pdf) |
 | :newspaper: | CosmWasm | Oak Security | [Zodiac Protocol Core extension](https://github.com/oak-security/audit-reports/blob/main/Zodiac%20Protocol/2024-03-22%20Audit%20Report%20-%20Zodiac%20Protocol%20Core%20Extension%20v1.0.pdf) |
 | :ok_hand: | CosmWasm | Oak Security | [IxoSwap](https://github.com/oak-security/audit-reports/blob/main/ixo/2024-03-15%20Audit%20Report%20-%20IxoSwap%20v1.0.pdf) |
-| :ok_hand: | CosmWasm | JCsec | Banana DAO's Banana Vault (soon to be published) |
+| :ok_hand: | CosmWasm | JCsec | Banana DAO's Banana Vault (unpublished) |
 | :gem: | CosmWasm | Oak Security | [Zodiac Protocol Periphery audit](https://github.com/oak-security/audit-reports/blob/main/Zodiac%20Protocol/2024-03-18%20Audit%20Report%20-%20Zodiac%20Protocol%20Periphery%20v1.0.pdf) |
 | :ok_hand: | CosmWasm | Oak Security | [DoraHacks Quadratic Grant Injective audit](https://github.com/oak-security/audit-reports/blob/main/DoraHacks/2024-03-04%20Audit%20Report%20-%20DoraHacks%20Quadratic%20Grant%20Injective%20v1.0.pdf) |
 | :ok_hand: | CosmWasm | Oak Security | [CW-Hyperlane audit](https://github.com/oak-security/audit-reports/blob/main/Hyperlane/2024-02-13%20Audit%20Report%20-%20cw-hyperlane%20v1.0.pdf) |
