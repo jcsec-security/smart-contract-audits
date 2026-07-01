@@ -1,8 +1,8 @@
 # Smart Contract audits
 
 Below, I've included a list of the Smart Contract audits I have done since entering Web3 security. Each entry will include the firm under which it was published and the URL of the public report, if available. 
-* [JCsec](https://jcsec.io/) / freelancing: June 2022 - onwards
-* [Oak Security](https://www.oaksecurity.io/) / [Solidified](https://www.solidified.io/): August 2022 - June 2022
+* [JCsec](https://jcsec.io/) / freelancing: June 2024 - onwards
+* [Oak Security](https://www.oaksecurity.io/) / [Solidified](https://www.solidified.io/): August 2022 - June 2024
 * [Halborn](https://halborn.com/): October 2021 - June 2022
 
 > [!TIP] 
